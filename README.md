@@ -26,7 +26,13 @@ Take a Demo ("https://stylecraze-backend-io.vercel.app/")
 here the home, login/signup, dashboard, create an Email, begin campaigns, choose templeate,customize
 compaign, campaign preveiw page and track campaign status , sections are the part we have majorly focused to develop
 
-<h1>Login page<h1>
+<h1>Sign page<h1>
   
  ![Capture](https://user-images.githubusercontent.com/95909861/165844340-b47bd239-8add-4a08-a347-0a7e7d24c001.PNG)
+  <h1>WEBSITE USER FLOW ></h1>
+the user flow that we tried to maintain is,
 
+home -> login/signup -> dashboard -> get started to campaign -> create campaign-> Enter email details -> choose templeate -> choose blocks/styles/comments tab -> choose images by dragging -> products name -> send campaign -> track status (through dashboard - part2 in image preveiw aboove ^)
+
+  <h1>TEAM MEMBERS AND MESSAGE></h1>
+we really enjoyed this whole part of developing and haad a learing experience and have given our best efforts to bring the BEST thing as POSSIBLE.
