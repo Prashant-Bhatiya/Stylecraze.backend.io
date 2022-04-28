@@ -1,4 +1,13 @@
 # Stylecraze.backend.io
+
 Stylecraze website cloned with Backend Authentication
-![alt text](http://C:\Users\HP\OneDrive\Pictures\Camera Roll![Capture](https://user-images.githubusercontent.com/95909861/165842361-9f2eae46-f246-43fe-834e-c944da80637c.PNG)
-/to/img.png)
+welcome to this repo,
+We a team of 6 members ( has completed the task in 5 days and Given our best efforts to Construct this project.
+In case of any suggestion and query feel free to connect us
+
+Take a Demo ("https://stylecraze-backend-io.vercel.app/")
+
+<h1>TOOLS AND TECHNOLOGY USED </h1>
+  
+
+
