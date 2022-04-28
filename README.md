@@ -8,6 +8,16 @@ In case of any suggestion and query feel free to connect us
 Take a Demo ("https://stylecraze-backend-io.vercel.app/")
 
 <h1>TOOLS AND TECHNOLOGY USED </h1>
+<u>
+  <li>HTML</li> 
+  <li>css</li>
+  <li>javascript</li>
+  <li>font Awesom icons</li>
+<li>bootstrap (for styling flash mesage)</li>
+  <li>Nodejs</li>
+  <li>ExpressJs</li>
+  <li>mongodb atlas (for database)</li>
   
+  </ul>
 
 
