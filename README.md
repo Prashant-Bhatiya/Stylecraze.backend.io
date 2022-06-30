@@ -6,10 +6,10 @@ You can run this on your local system by Live Share.
 
 Deployed link :- https://stylecraze-backend-io.vercel.app
 
-Scrrenshots :- 
+Some Screenshots :- 
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/97454787/166261076-8091db76-4ee1-49fb-95fd-653a8980a475.png)
-landing page
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/97454787/166261113-53dd5110-21d9-4fbd-b2f0-559df4c38a2f.png)
-signup page
+
+### Thank for Reading.
